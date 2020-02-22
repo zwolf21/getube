@@ -2,8 +2,9 @@ import argparse, re, sys
 
 from tqdm import tqdm
 
-from search import get_search_results
-from download import get_tube, get_streams
+
+from .search import get_search_results
+from .download import get_tube, get_streams
 
 
 
