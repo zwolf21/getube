@@ -1,4 +1,4 @@
 beautifulsoup4==4.8.2
-requests==2.22.0
+requests==2.31.0
 pytube3==9.6.2
 tqdm==4.43.0
